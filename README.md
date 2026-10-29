@@ -16,8 +16,9 @@
 
 # Hello! This is Malu!
 
-- I’m currently working on [Nanjing University](https://astronomy.nju.edu.cn/)
-- I’m studying astronomy， here is our [group](https://github.com/njuastro)
+- I’m majoring in astronomy and received my PhD from Nanjing University.
+- I’m currently working at the [Research Center of Astronomy of Qinghai University](https://slxy.qhu.edu.cn/astro/index.htm)
+
 
 ## Reach me 
 
